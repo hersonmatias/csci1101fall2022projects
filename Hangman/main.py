@@ -16,4 +16,3 @@ for current_answer_character in answer:
     else:
         answer_guessed.append(True)
 
-#game logic
