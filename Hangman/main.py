@@ -19,7 +19,8 @@ for current_answer_character in answer:
 # Game logic.
 current_incorrect_guesses = 0
 
-while current_incorrect_guesses < num_of_incorrect_guesses or False not in answer_guessed:
+while current_incorrect_guesses < num_of_incorrect_guesses and False in answer_guessed:
+    # Game Summary
     print(f"Number of incorrect guesses left: {num_of_incorrect_guesses - current_incorrect_guesses}")
-
+    
     #Display puzzle board.
