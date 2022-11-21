@@ -1,0 +1,6 @@
+id,int64_value,int32_value,int16_value,bool_value,double_value,string_value,datetime_value
+56,813164054,NULL,8731,NULL,NULL,the game,NULL
+57,813164054,NULL,8731,NULL,NULL,the game,NULL
+59,NULL,444,NULL,0,111.11100000,NULL,NULL
+60,NULL,1,NULL,0,-1.00000000,NULL,NULL
+61,NULL,1,NULL,0,-1.01000000,NULL,NULL
